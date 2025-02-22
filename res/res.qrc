@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>schoollogo.png</file>
+        <file>adduser.png</file>
+        <file>deleteuser.png</file>
+        <file>query.png</file>
+        <file>res.qrc</file>
+        <file>programlogo.png</file>
+    </qresource>
+</RCC>
